@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lv4n4
-- 🦸🏻‍♀️ I'm a Tech Recruiter Freelance
+- 🦸🏻‍♀️ I'm a It/Tech Recruiter Freelance
 - 🤓 I'm trying to learn GitHub, even though English isn't my superpower
 - ❤️‍🔥 I'm passionate about technology, AI, science fiction, dystopias and many other things
 - 💞 I'm not here to write code, as I'm not skilled in it, but I'd like to start creating a repository dedicated to collecting feedback, suggestions, impressions and     experiences about the world of work and the selection processes from developers, in order to bring our two worlds closer together
